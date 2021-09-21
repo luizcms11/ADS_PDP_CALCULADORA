@@ -1,0 +1,10 @@
+D:\Program Files\Visual 2019\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Program Files\Visual 2019\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Program Files\Visual 2019\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Program Files\Visual 2019\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\Program Files\Visual 2019\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Program Files\Visual 2019\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Program Files\Visual 2019\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Program Files\Visual 2019\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Program Files\Visual 2019\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Program Files\Visual 2019\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
